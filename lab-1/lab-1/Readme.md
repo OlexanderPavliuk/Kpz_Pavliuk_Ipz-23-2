@@ -8,10 +8,10 @@
 
 Кожен клас виконує лише одну відповідальність:
 
-* `Money` — робота з валютою ([classes/Money.cs](classes/Money.cs))
-* `Product` — опис товару, зміна ціни ([classes/Product.cs](classes/Product.cs))
-* `WarehouseItem` — облік одиниць товару на складі ([classes/WarehouseItem.cs](classes/WarehouseItem.cs))
-* `Reporting` — облік надходжень, відвантажень, інвентаризація ([classes/Reporting.cs](classes/Reporting.cs))
+* `Money` — робота з валютою ([classes/Money.cs]([classes/Money.cs](https://github.com/OlexanderPavliuk/Kpz_Pavliuk_Ipz-23-2/blob/6b920c371d17aa5808853c1efeac48dab892f37a/lab-1/lab-1/Classes/Money.cs)))
+* `Product` — опис товару, зміна ціни ([classes/Product.cs]([classes/Product.cs](https://github.com/OlexanderPavliuk/Kpz_Pavliuk_Ipz-23-2/blob/6b920c371d17aa5808853c1efeac48dab892f37a/lab-1/lab-1/Classes/Product.cs)))
+* `WarehouseItem` — облік одиниць товару на складі ([classes/WarehouseItem.cs][(classes/WarehouseItem.cs](https://github.com/OlexanderPavliuk/Kpz_Pavliuk_Ipz-23-2/blob/6b920c371d17aa5808853c1efeac48dab892f37a/lab-1/lab-1/Classes/WarehouseItem.cs)))
+* `Reporting` — облік надходжень, відвантажень, інвентаризація ([classes/Reporting.cs]([classes/Reporting.cs](https://github.com/OlexanderPavliuk/Kpz_Pavliuk_Ipz-23-2/blob/6b920c371d17aa5808853c1efeac48dab892f37a/lab-1/lab-1/Classes/Reporting.cs)))
 
 ### 2. **Open/Closed Principle (SOLID - O)**
 
