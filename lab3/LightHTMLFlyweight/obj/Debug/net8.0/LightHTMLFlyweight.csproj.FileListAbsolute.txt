@@ -1,0 +1,15 @@
+C:\Users\sasha\source\repos\lab3\LightHTMLFlyweight\bin\Debug\net8.0\LightHTMLFlyweight.exe
+C:\Users\sasha\source\repos\lab3\LightHTMLFlyweight\bin\Debug\net8.0\LightHTMLFlyweight.deps.json
+C:\Users\sasha\source\repos\lab3\LightHTMLFlyweight\bin\Debug\net8.0\LightHTMLFlyweight.runtimeconfig.json
+C:\Users\sasha\source\repos\lab3\LightHTMLFlyweight\bin\Debug\net8.0\LightHTMLFlyweight.dll
+C:\Users\sasha\source\repos\lab3\LightHTMLFlyweight\bin\Debug\net8.0\LightHTMLFlyweight.pdb
+C:\Users\sasha\source\repos\lab3\LightHTMLFlyweight\obj\Debug\net8.0\LightHTMLFlyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\lab3\LightHTMLFlyweight\obj\Debug\net8.0\LightHTMLFlyweight.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\lab3\LightHTMLFlyweight\obj\Debug\net8.0\LightHTMLFlyweight.AssemblyInfo.cs
+C:\Users\sasha\source\repos\lab3\LightHTMLFlyweight\obj\Debug\net8.0\LightHTMLFlyweight.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\lab3\LightHTMLFlyweight\obj\Debug\net8.0\LightHTMLFlyweight.dll
+C:\Users\sasha\source\repos\lab3\LightHTMLFlyweight\obj\Debug\net8.0\refint\LightHTMLFlyweight.dll
+C:\Users\sasha\source\repos\lab3\LightHTMLFlyweight\obj\Debug\net8.0\LightHTMLFlyweight.pdb
+C:\Users\sasha\source\repos\lab3\LightHTMLFlyweight\obj\Debug\net8.0\LightHTMLFlyweight.genruntimeconfig.cache
+C:\Users\sasha\source\repos\lab3\LightHTMLFlyweight\obj\Debug\net8.0\ref\LightHTMLFlyweight.dll
+C:\Users\sasha\source\repos\lab3\LightHTMLFlyweight\bin\Debug\net8.0\sample.txt

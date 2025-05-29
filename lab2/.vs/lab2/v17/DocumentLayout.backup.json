@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sasha\\source\\repos\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67E743F7-0843-40D7-88A9-8F09766E3FC5}|Builder\\Builder.csproj|c:\\users\\sasha\\source\\repos\\lab2\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E743F7-0843-40D7-88A9-8F09766E3FC5}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\Builder\\Director\\CharacterDirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Builder\\Director\\CharacterDirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\Builder\\Builders\\EnemyBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Builder\\Builders\\EnemyBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\Builder\\Builders\\HeroBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Builder\\Builders\\HeroBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\Builder\\Builders\\ICharacterBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Builder\\Builders\\ICharacterBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\Builder\\Models\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Builder\\Models\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A372F0E-A2E3-4101-843B-04CC5125B5A4}|Prototype\\Prototype.csproj|c:\\users\\sasha\\source\\repos\\lab2\\prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A372F0E-A2E3-4101-843B-04CC5125B5A4}|Prototype\\Prototype.csproj|solutionrelative:prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\Prototype\\Classes\\Virus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Prototype\\Classes\\Virus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ADA885-0F38-4F31-93EF-6A0286A482B6}|Singleton\\Singleton.csproj|c:\\users\\sasha\\source\\repos\\lab2\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28ADA885-0F38-4F31-93EF-6A0286A482B6}|Singleton\\Singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\Singleton\\Classes\\Authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Singleton\\Classes\\Authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6806B2DA-DE0E-4C1B-8747-790A7BF448F7}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\sasha\\source\\repos\\lab2\\abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6806B2DA-DE0E-4C1B-8747-790A7BF448F7}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A813AE-5B1B-4D23-BA78-131CC8D870E4}|FactoryMethod\\FactoryMethod.csproj|c:\\users\\sasha\\source\\repos\\lab2\\factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A813AE-5B1B-4D23-BA78-131CC8D870E4}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Factories\\BalaxyFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Factories\\BalaxyFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Factories\\KiaomiFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Factories\\KiaomiFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Factories\\IProneFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Factories\\IProneFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6806B2DA-DE0E-4C1B-8747-790A7BF448F7}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\sasha\\source\\repos\\lab2\\abstractfactory\\factories\\idevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6806B2DA-DE0E-4C1B-8747-790A7BF448F7}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\factories\\idevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Balaxy\\BalaxySmartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Devices\\Balaxy\\BalaxySmartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Balaxy\\BalaxyEBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Devices\\Balaxy\\BalaxyEBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Balaxy\\BalaxyNetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Devices\\Balaxy\\BalaxyNetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Balaxy\\BalaxyLaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Devices\\Balaxy\\BalaxyLaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Kiaomi\\KiaomiEBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Devices\\Kiaomi\\KiaomiEBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Kiaomi\\KiaomiLaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Devices\\Kiaomi\\KiaomiLaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Kiaomi\\KiaomiNetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Devices\\Kiaomi\\KiaomiNetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Kiaomi\\KiaomiSmartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Devices\\Kiaomi\\KiaomiSmartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\IProne\\IProneSmartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Devices\\IProne\\IProneSmartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\IProne\\IProneNetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Devices\\IProne\\IProneNetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\IProne\\IProneLaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Devices\\IProne\\IProneLaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\IProne\\IProneEBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Devices\\IProne\\IProneEBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\ISmartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Devices\\ISmartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\IEBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Devices\\IEBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\INetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Devices\\INetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\ILaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactory\\Devices\\ILaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterDirector.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\Builder\\Director\\CharacterDirector.cs",
+              "RelativeDocumentMoniker": "Builder\\Director\\CharacterDirector.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\Builder\\Director\\CharacterDirector.cs",
+              "RelativeToolTip": "Builder\\Director\\CharacterDirector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:31:02.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\Builder\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "Builder\\Models\\Character.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\Builder\\Models\\Character.cs",
+              "RelativeToolTip": "Builder\\Models\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:30:44.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\Builder\\Builders\\EnemyBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\Builders\\EnemyBuilder.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\Builder\\Builders\\EnemyBuilder.cs",
+              "RelativeToolTip": "Builder\\Builders\\EnemyBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:30:12.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HeroBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\Builder\\Builders\\HeroBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\Builders\\HeroBuilder.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\Builder\\Builders\\HeroBuilder.cs",
+              "RelativeToolTip": "Builder\\Builders\\HeroBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:30:03.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICharacterBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\Builder\\Builders\\ICharacterBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\Builders\\ICharacterBuilder.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\Builder\\Builders\\ICharacterBuilder.cs",
+              "RelativeToolTip": "Builder\\Builders\\ICharacterBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:29:54.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Builder\\Program.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\Builder\\Program.cs",
+              "RelativeToolTip": "Builder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:28:07.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Virus.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\Prototype\\Classes\\Virus.cs",
+              "RelativeDocumentMoniker": "Prototype\\Classes\\Virus.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\Prototype\\Classes\\Virus.cs",
+              "RelativeToolTip": "Prototype\\Classes\\Virus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:24:53.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\Prototype\\Program.cs",
+              "RelativeDocumentMoniker": "Prototype\\Program.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\Prototype\\Program.cs",
+              "RelativeToolTip": "Prototype\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:24:06.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Authenticator.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\Singleton\\Classes\\Authenticator.cs",
+              "RelativeDocumentMoniker": "Singleton\\Classes\\Authenticator.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\Singleton\\Classes\\Authenticator.cs",
+              "RelativeToolTip": "Singleton\\Classes\\Authenticator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:21:26.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\Singleton\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton\\Program.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\Singleton\\Program.cs",
+              "RelativeToolTip": "Singleton\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:21:07.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDeviceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Factories\\IDeviceFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Factories\\IDeviceFactory.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Factories\\IDeviceFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\Factories\\IDeviceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:44:54.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProneFactory.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Factories\\IProneFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Factories\\IProneFactory.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Factories\\IProneFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\Factories\\IProneFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:39:44.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KiaomiFactory.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Factories\\KiaomiFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Factories\\KiaomiFactory.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Factories\\KiaomiFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\Factories\\KiaomiFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:39:54.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BalaxyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Factories\\BalaxyFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Factories\\BalaxyFactory.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Factories\\BalaxyFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\Factories\\BalaxyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:40:05.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Program.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Program.cs",
+              "RelativeToolTip": "AbstractFactory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:38:00.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\FactoryMethod\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\FactoryMethod\\Program.cs",
+              "RelativeToolTip": "FactoryMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:25:50.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BalaxySmartphone.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Balaxy\\BalaxySmartphone.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\Balaxy\\BalaxySmartphone.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Balaxy\\BalaxySmartphone.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\Balaxy\\BalaxySmartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:15:50.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BalaxyEBook.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Balaxy\\BalaxyEBook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\Balaxy\\BalaxyEBook.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Balaxy\\BalaxyEBook.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\Balaxy\\BalaxyEBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:15:37.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BalaxyNetbook.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Balaxy\\BalaxyNetbook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\Balaxy\\BalaxyNetbook.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Balaxy\\BalaxyNetbook.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\Balaxy\\BalaxyNetbook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:15:24.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BalaxyLaptop.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Balaxy\\BalaxyLaptop.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\Balaxy\\BalaxyLaptop.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Balaxy\\BalaxyLaptop.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\Balaxy\\BalaxyLaptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:15:11.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "KiaomiSmartphone.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Kiaomi\\KiaomiSmartphone.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\Kiaomi\\KiaomiSmartphone.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Kiaomi\\KiaomiSmartphone.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\Kiaomi\\KiaomiSmartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:13:40.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KiaomiEBook.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Kiaomi\\KiaomiEBook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\Kiaomi\\KiaomiEBook.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Kiaomi\\KiaomiEBook.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\Kiaomi\\KiaomiEBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:13:29.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "KiaomiNetbook.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Kiaomi\\KiaomiNetbook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\Kiaomi\\KiaomiNetbook.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Kiaomi\\KiaomiNetbook.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\Kiaomi\\KiaomiNetbook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:13:11.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IProneSmartphone.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\IProne\\IProneSmartphone.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\IProne\\IProneSmartphone.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\IProne\\IProneSmartphone.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\IProne\\IProneSmartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:47:21.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KiaomiLaptop.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Kiaomi\\KiaomiLaptop.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\Kiaomi\\KiaomiLaptop.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\Kiaomi\\KiaomiLaptop.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\Kiaomi\\KiaomiLaptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:42:58.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IProneEBook.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\IProne\\IProneEBook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\IProne\\IProneEBook.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\IProne\\IProneEBook.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\IProne\\IProneEBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:47:00.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IProneNetbook.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\IProne\\IProneNetbook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\IProne\\IProneNetbook.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\IProne\\IProneNetbook.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\IProne\\IProneNetbook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:42:30.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IProneLaptop.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\IProne\\IProneLaptop.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\IProne\\IProneLaptop.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\IProne\\IProneLaptop.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\IProne\\IProneLaptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:42:21.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ISmartphone.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\ISmartphone.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\ISmartphone.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\ISmartphone.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\ISmartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:42:00.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IEBook.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\IEBook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\IEBook.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\IEBook.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\IEBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:41:51.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "INetbook.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\INetbook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\INetbook.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\INetbook.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\INetbook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:41:36.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ILaptop.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\ILaptop.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\ILaptop.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\lab2\\AbstractFactory\\Devices\\ILaptop.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\ILaptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:41:26.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
